@@ -1,3 +1,1 @@
-<?php 
-echo "Shilpa sawant index.php";
-?>
+suju 1.2 index.phhp
